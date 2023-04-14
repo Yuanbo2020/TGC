@@ -1,6 +1,14 @@
 # Transformer-based Touch Gesture Classification model (TGC)
 
 
+# Run the code
+```1) Unzip the dataset.7z under the application folder```
+
+
+```2) python 1_run_frames.py```
+
+
+
 # Citation
 Please feel free to use the method and consider citing our paper as
 
